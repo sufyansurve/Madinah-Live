@@ -1,5 +1,6 @@
 document.addEventListener('DOMContentLoaded', () => {
-  const source = 'https://vkvsd86.mycdn.me/hls/5268008667753.m3u8/sig/1p22Gv4vtgE/expires/1694526289715/srcIp/148.113.5.1/urls/185.226.52.100/clientType/14/srcAg/CHROME_ANDROID/mid/6332128635753/5268008667753_high/index.m3u8';
+  const source = 'https://hd-auth.skylinewebcams.com/live.m3u8?a=71irn0kgddejfnrmlopopnuqk4
+';
   const video = document.querySelector('video');
 
   const defaultOptions = {};
