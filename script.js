@@ -1,5 +1,5 @@
 document.addEventListener('DOMContentLoaded', () => {
-  const source = 'https://hd-auth.skylinewebcams.com/live.m3u8?a=71irn0kgddejfnrmlopopnuqk4
+  const source = 'https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_HD_voot_MOB/Fallback/index.m3u8'
 ';
   const video = document.querySelector('video');
 
